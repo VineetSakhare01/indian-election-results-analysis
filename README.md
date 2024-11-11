@@ -2,7 +2,6 @@
 
 
 # 🔍 Problem Statement
-We aim to answer the following key questions using SQL:
 
 1. Total Seats: What is the total number of seats available for elections?
 2. Seats by State: What is the total number of seats available for elections in each state?
